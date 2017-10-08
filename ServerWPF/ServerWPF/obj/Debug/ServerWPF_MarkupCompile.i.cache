@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\développement\Quizzz\Quizzz\ServerWPF\ServerWPF\obj\Debug\
+D:\Development\Quizzz\ServerWPF\ServerWPF\obj\Debug\
 ServerWPF
 none
 false
 DEBUG;TRACE
-D:\développement\Quizzz\Quizzz\ServerWPF\ServerWPF\App.xaml
-11151548125
+D:\Development\Quizzz\ServerWPF\ServerWPF\App.xaml
+7-1991690029
 
-10513427836
+191534432397
 131569487696
-MainWindow.xaml;
+MainWindow.xaml;PageLancement.xaml;PagePresentateur.xaml;Ressources\StyleButton.xaml;UserControls\Button.xaml;UserControls\EcranGlobal.xaml;UserControls\ScoreBoard.xaml;
 
-True
+False
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ServerWPF
 {
-    class Server
+    public class Server
     {
         //toto
     }
